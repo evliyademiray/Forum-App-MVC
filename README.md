@@ -1,48 +1,9 @@
-# MVC (Model View Controller)
+This is Forum App project created by React Vite.
 
-# Model: 
-Uygulamanın veri mantığını veya yapısını temsil eder.
--Örneğin: Bileşende tutulacak state'in başlangıç değeri
--Veriyi formatlamaya yarayan fonksiyonlar
--API işlemleri tutulabilir
+-Consider to MVC (Model-View-Controller) design pattern.
 
-# View: 
-Son kullanıcının gördüğü tasarım.
--Bileşenlerindeki return satırında yazdığımız JSX elementleri bu bileşende tanımlanır
+-Used Axios, Json Server, React-Router-Dom React-Toastify and Uuid.
 
-# Controller
-View ile Model arasındaki bağlantıyı sağlar
-Kullanıcı etkileşimiyle tetiklenecek bütün fonksiyonlar burada tanımlanır
+-Used Tailwind-Css for styling.
 
-# MVC klasör yapısı 
-
-# 1. Yol
--public
--src
---pages
----MainPage
-----MainPageController
-----MainPageViev
-----MainPageModel
-
----Auth
-----AuthPageController
-----AuthPageView
-----AuthPageModel
-
-# 2.Yol
--public
--src
-
---models
----MainPageModel
----AuthPageModel
-
---views
----MainPageView
----AuthPageView
-
---controllers
----MainPageController
----AuthPageController
-# Forum-App-MVC
+-There is two page, Add Post and Posts. On Add Post, you can write username, title and description, and can create post. After create post, you'll see Posts page, all posts are here and sortable by username. If you click the name, you'll see the all posts of this user.
