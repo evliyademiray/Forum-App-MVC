@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 2,
+      "user": "Ali",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 3,
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React123",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Ahmet"
+    },
+    {
+      "user": "Evliya",
+      "title": "React Hk.",
+      "text": "Nedir LA Bu React",
+      "id": "035c2e96-1fe6-4264-95bb-ffe134b038a4"
+    },
+    {
+      "user": "MAho AGA",
+      "title": "DAvar Meselesi",
+      "text": "Ne olacak bu davarlar",
+      "id": "38a52344-b57c-4530-800a-e9a797c960ff"
+    },
+    {
+      "user": "Ahmet",
+      "title": "TypeScript Proje",
+      "text": "Merhaba ....",
+      "id": "f1ceb9f3-0a45-4504-a612-282127ae1fc4"
+    },
+    {
+      "user": "qwerty",
+      "title": "qwerty",
+      "text": "qwerty",
+      "id": "b60702d9-c4eb-44fe-b67b-09cff29c9064"
+    },
+    {
+      "user": "qwerty",
+      "title": "qwerty",
+      "text": "qwerty",
+      "id": "51d3a87a-aebb-4fc8-900a-7f1e4acf5dc0"
+    },
+    {
+      "user": "qwerty",
+      "title": "qwerty",
+      "text": "qwerty",
+      "id": "22852bf1-50ad-44e6-9e29-580745395645"
+    },
+    {
+      "user": "qwerty",
+      "title": "qwerty",
+      "text": "qwerty",
+      "id": "5aa19511-fbd2-4059-9dca-b72569c40bcb"
+    },
+    {
+      "user": "qwerty",
+      "title": "qwerty",
+      "text": "qwerty",
+      "id": "e2548db0-d0fc-43c2-9e42-f2fb89fb2d2b"
+    },
+    {
+      "user": "qwerty",
+      "title": "qwerty",
+      "text": "qwerty",
+      "id": "29174d8c-6aab-4106-b38a-b9849f72d639"
+    },
+    {
+      "user": "Veli",
+      "title": "React Nedir",
+      "text": "React Hakkında düşünceler nelerdir",
+      "id": "a52b8ec4-50f3-4df0-9ba3-b5c43e39f1c0"
+    },
+    {
+      "user": "sdflakdjfKJDS",
+      "title": "İAŞSDJGLDFGŞLKNFD",
+      "text": "AİDŞFLJGALKDFGLKADF",
+      "id": "1579b41d-bcd4-4b1b-9f0e-da88d7f1f584"
+    }
+  ]
+}

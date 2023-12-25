@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: #242424;
+  color: #fff;
+}
+.active{
+  display: none;
+}
+nav a :hover{
+  text-shadow: 0 0 20px white;
+}
